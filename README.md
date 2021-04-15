@@ -1,2 +1,1 @@
-# moontech-web
-Moon Tech Web
+# moontech
